@@ -20,7 +20,7 @@ var init = function (window) {
         ///////////////////
         
         // TODO 1 : Declare and initialize our variables
-
+Declare an
 
 
         // TODO 2 : Create a function that draws a circle 
@@ -32,7 +32,7 @@ drawCircle()
 
 
         // TODO 7 : Use a loop to create multiple circles
-
+Use a 
 
 
 
